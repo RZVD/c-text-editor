@@ -4,7 +4,8 @@ This is a copy of the "Kilo" command-line text editor achieved by following the 
 
 https://viewsourcecode.org/snaptoken/kilo/
 
-Things that I learned:
+Things that I learned:  
+
     + Better practices for writing Makefiles  
 
     + Different operationg modes for the command line (Raw)  
@@ -14,4 +15,3 @@ Things that I learned:
     + New C standard libraries that i haven't used before(termios, fcntl, ioctl etc.)  
 
     + The basics of syntax highlighting  
-    
