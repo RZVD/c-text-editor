@@ -8,7 +8,7 @@ Things that I learned:
 
     + Better practices for writing Makefiles  
 
-    + Different operationg modes for the command line (Raw)  
+    + Different operating modes for the command line (Raw)  
 
     + How to change the color of text in the command line using escape sequences  
 
